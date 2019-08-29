@@ -1,4 +1,4 @@
-dash[testing]
+dash[testing]==0.43.0
 pytest-cookies
 pyyaml
 
