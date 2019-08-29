@@ -2,7 +2,7 @@
 # Switch into a virtual environment
 # pip install -r requirements.txt
 
-dash[testing]
+dash[testing]==0.43.0
 pyyaml
 
 
